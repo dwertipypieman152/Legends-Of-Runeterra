@@ -228,4 +228,4 @@ Legends of Runeterra is available as a full free version with all features and u
 Get ready for epic card battles and download Legends of Runeterra today for a thrilling experience!
 
 ---
-**Last updated:** 2026-11-10 09:29:22 UTC
+**Last updated:** 2026-11-10 17:34:22 UTC
